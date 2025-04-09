@@ -8,6 +8,10 @@ Condicionales
 Manipulación de cadenas
 Operaciones con matrices sin usar bibliotecas externas
 
+### Tecnologías utilizadas
+1. Python 3.x
+2. Jupyter Notebook (IPython)
+
 ### Cómo clonar y ejecutar
 1. Clonar el repositorio
 Abre una terminal y ejecuta:
